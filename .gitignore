@@ -1,0 +1,7 @@
+node_modules/
+*.log
+.DS_Store
+session.md
+task.md
+walkthrough.md
+implementation_plan.md

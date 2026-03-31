@@ -1,0 +1,21 @@
+{
+  "name": "gemini-reviewer",
+  "owner": {
+    "name": "recarnot"
+  },
+  "metadata": {
+    "description": "Gemini plugins to use in Claude Code for adversarial review and task delegation.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "gemini",
+      "description": "Use Gemini from Claude Code to review code or delegate tasks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "recarnot"
+      },
+      "source": "./plugins/gemini"
+    }
+  ]
+}
