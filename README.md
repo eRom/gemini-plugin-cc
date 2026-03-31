@@ -87,6 +87,4 @@ No broker, no Unix sockets, no JSON-RPC protocol — just clean process spawning
 
 **Default model:** `gemini-3.1-pro-preview`
 
-## 📄 License
 
-MIT
