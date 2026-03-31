@@ -1,5 +1,7 @@
 # gemini-plugin-cc
 
+Based on https://github.com/anthropic/codex-plugin-cc
+
 **Use Gemini from Claude Code** — adversarial code reviews, task delegation, and a stop-time review gate.
 
 This plugin integrates [Gemini CLI](https://github.com/google-gemini/gemini-cli) into [Claude Code](https://docs.anthropic.com/en/docs/claude-code) as an **adversarial reviewer and rescue agent**. It lets you challenge Claude's implementation choices by getting a second opinion from Google's Gemini model.
